@@ -14,7 +14,7 @@
   </h1>
 </div>
 <div align="center">
-  <img src="https://i.gifer.com/3Ayb.gif" width="500" height="300"/>
+  <img src="http://25.media.tumblr.com/76306538077414e022bf11ac7020d914/tumblr_mlsk3fyGEi1qd3rd2o1_1280.gif" width="450" height="300"/>
 </div>
 
 ---
