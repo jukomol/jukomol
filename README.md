@@ -60,7 +60,7 @@ I am a Robotics Enthusiast from Bangladesh <img src="https://media.giphy.com/med
 ---
 
 ### 📝 Blog Posts
-Check out my [Blogs](https://jukomol.github.io/myblog.html)
+Check out my [Blogs](https://jukomol.github.io/article.html)
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
