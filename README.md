@@ -1,35 +1,39 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/06/51/02/0651024a0251d8eca94fa29d6c185822.gif" width="150"/>
-  <div id="badges">
+  <h1>JAHIR UDDIN</h1>
+  
+  <p>
     <a href="https://www.linkedin.com/in/jukomol/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://twitter.com/JU_Komol">
       <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
     </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=jukomol&style=flat-square&color=blue" alt="Profile views"/>
-  <h1>JAHIR UDDIN</h1>
-</div>
-
-<div align="center">
-  <img src="http://25.media.tumblr.com/76306538077414e022bf11ac7020d914/tumblr_mlsk3fyGEi1qd3rd2o1_1280.gif" width="450" height="300"/>
+  </p>
+  
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=jukomol&style=flat-square&color=blue" alt="Profile views"/>
+  </p>
+  
+  <img src="http://25.media.tumblr.com/76306538077414e022bf11ac7020d914/tumblr_mlsk3fyGEi1qd3rd2o1_1280.gif" width="450" height="300" alt="Animated Banner"/>
 </div>
 
 ---
 
 ### 👨‍💻 About Me
-I am a Robotics Enthusiast from Bangladesh <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">. 
 
-- 🔭 Currently working on Unmanned Aerial System
-- 🌱 Exploring Different Technical Fields
-- ⚡ At night, I observe the sky with my 90mm telescope
-- 📫 How to reach me: [![LinkedIn Badge](https://img.shields.io/badge/-jukomol-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jukomol/)
+Hi there! I’m **JAHIR UDDIN**, a passionate Robotics Enthusiast from Bangladesh. I’m currently working on an Unmanned Aerial System, with my latest project focusing on **Riverbed Segmentation**. When I’m not busy with robotics, you can find me exploring various technical fields or stargazing with my 90mm telescope.
+
+> "Innovation distinguishes between a leader and a follower." – Steve Jobs
+
+- 🔭 **Current Project:** Riverbed Segmentation  
+- 🌱 **Learning:** Exploring different technical fields  
+- 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/jukomol/)
 
 ---
 
 ### 🛠 Languages and Tools
-<div>
+
+<div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>
@@ -52,15 +56,22 @@ I am a Robotics Enthusiast from Bangladesh <img src="https://media.giphy.com/med
 
 ---
 
-### 🔥 My Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jukomol&theme=dark&background=000000)](https://git.io/streak-stats)
+### 📊 GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jukomol&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=jukomol&theme=dark&background=000000" alt="GitHub Streak Stats"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jukomol&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
+</div>
 
 ---
 
 ### 📝 Blog Posts
-Check out my [Blogs](https://jukomol.github.io/article.html)
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+Explore my thoughts and projects on my [Blog](https://jukomol.optisense.tech/myblog.html).
+
+---
+
+<div align="center">
+  <p>Thanks for stopping by! Let's connect and create something amazing together.</p>
+</div>
