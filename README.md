@@ -75,7 +75,7 @@ Hi there! I’m **JAHIR UDDIN**, a passionate Robotics Enthusiast from Banglades
 
 ### 📝 Blog Posts
 
-Explore my thoughts and projects on my [Blog](https://jukomol.optisense.tech/myblog.html).
+Explore my thoughts and projects on my [Blog](https://jukomol.github.io/html/myblog.html).
 
 ---
 
