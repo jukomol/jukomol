@@ -22,7 +22,8 @@
     <img src="https://komarev.com/ghpvc/?username=jukomol&style=flat-square&color=blue" alt="Profile views"/>
   </p>
   
-  <img src="http://25.media.tumblr.com/76306538077414e022bf11ac7020d914/tumblr_mlsk3fyGEi1qd3rd2o1_1280.gif" width="450" height="300" alt="Animated Banner"/>
+  <img width="360" height="235" alt="image" src="https://github.com/user-attachments/assets/28aa8d41-2570-4073-8b23-fae8ba124078" />
+
 </div>
 
 ---
