@@ -61,7 +61,7 @@ Hi there! I'm **JAHIR UDDIN**, a passionate Robotics Enthusiast from Bangladesh 
   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/1280px-Ros_logo.svg.png" title="ROS" alt="ROS" width="45" height="40"/>&nbsp;&nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Ros_logo.svg/1280px-Ros_logo.svg.png" title="ROS" alt="ROS" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="Tensorflow" alt="Tensorflow" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" title="OpenGL" alt="OpenGL" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="50" height="50"/>&nbsp;&nbsp;&nbsp;
@@ -93,7 +93,7 @@ Hi there! I'm **JAHIR UDDIN**, a passionate Robotics Enthusiast from Bangladesh 
 
 ### 📝 Latest from My Blog
 
-Check out my latest thoughts and projects on my blog! 📖
+Check out my latest posts and projects on my blog! 📖
 
 <div align="center">
   <a href="https://jukomol.github.io/blog/">
