@@ -30,9 +30,9 @@
 
 ### 👨‍💻 About Me
 
-Hi there! I'm **JAHIR UDDIN**, a passionate Robotics Enthusiast from Bangladesh 🇧🇩. I'm currently working on an Unmanned Aerial System, with my latest project focusing on **Riverbed Segmentation**. When I'm not busy with robotics, you can find me exploring various technical fields or stargazing with my 90mm telescope 🔭.
+Hi there! I'm **JAHIR UDDIN**, a PhD researcher at University of Nebraska Medical Center. 🔭.
 
-- 🚁 **Current Project:** Riverbed Segmentation using Computer Vision  
+- 🚁 **Current Project:** Evaluting risks while operating tractors using Physical AI 
 - 🌱 **Learning:** Exploring different technical fields & AI/ML  
 - 🌐 **Website:** [jukomol.github.io](https://jukomol.github.io/)
 - 📝 **Blog:** [jukomol.github.io/blog](https://jukomol.github.io/blog/)
