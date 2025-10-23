@@ -22,7 +22,7 @@
     <img src="https://komarev.com/ghpvc/?username=jukomol&style=flat-square&color=blue" alt="Profile views"/>
   </p>
   
-  <img width="360" height="235" alt="image" src="https://github.com/user-attachments/assets/28aa8d41-2570-4073-8b23-fae8ba124078" />
+  <img width="360" height="235" alt="image" src="https://media.giphy.com/media/ZWhA850E7azfO/giphy.gif"/>
 
 </div>
 
